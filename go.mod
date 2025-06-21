@@ -514,3 +514,5 @@ replace github.com/prometheus/client_golang => github.com/cockroachdb/client_gol
 replace github.com/snowflakedb/gosnowflake => github.com/cockroachdb/gosnowflake v1.6.25
 
 replace github.com/knz/strtime => github.com/cockroachdb/strtime v0.0.0-20250401230151-b9140bbb29b5
+
+replace github.com/knz/bubbline => /Users/shriram/Workspace/bubbline

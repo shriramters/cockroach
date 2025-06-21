@@ -1635,8 +1635,6 @@ github.com/klauspost/crc32 v0.0.0-20161016154125-cb6bfca970f6/go.mod h1:+ZoRqAPR
 github.com/klauspost/pgzip v1.0.2-0.20170402124221-0bf5dcad4ada/go.mod h1:Ch1tH69qFZu15pkjo5kYi6mth2Zzwzt50oCQKQE9RUs=
 github.com/klauspost/pgzip v1.2.5 h1:qnWYvvKqedOF2ulHpMG72XQol4ILEJ8k2wwRl/Km8oE=
 github.com/klauspost/pgzip v1.2.5/go.mod h1:Ch1tH69qFZu15pkjo5kYi6mth2Zzwzt50oCQKQE9RUs=
-github.com/knz/bubbline v0.0.0-20230422210153-e176cdfe1c43 h1:uhwfuoL9LDMUGlxcs3Rbt35L3YoqGUd+YWgaL9EFl0A=
-github.com/knz/bubbline v0.0.0-20230422210153-e176cdfe1c43/go.mod h1:ucXvyrucVy4jp/4afdKWNW1TVO73GMI72VNINzyT678=
 github.com/knz/catwalk v0.1.4 h1:GgCxHbPp+nzyZBJcNL/CJd1aba4ACoeuI1lnsshAPkY=
 github.com/knz/catwalk v0.1.4/go.mod h1:Q+Yj4ny4AXgrOOyWyDGY/HJzmbGH8MFnsUqvCAiUT5s=
 github.com/knz/lipgloss-convert v0.1.0 h1:qUPUt6r8mqvi9DIV3nBPu3kEmFyHrZtXzv0BlPBPLNQ=

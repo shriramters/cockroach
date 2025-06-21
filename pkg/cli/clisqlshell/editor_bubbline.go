@@ -33,6 +33,8 @@ func (b *bubblineReader) init(
 	b.ins = bubbline.New()
 	cleanupFn = func() { b.ins.Close() }
 
+	b.ins.SetHighlighter(newSQLHighlighter())
+
 	b.ins.MaxHistorySize = maxHistEntries
 	if sqlS.enableDebug() {
 		b.ins.SetDebugEnabled(true)
